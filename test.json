@@ -1,0 +1,17 @@
+{
+  "userList" : [
+    {
+      "name":  "Abc",
+      "accNum": "123456789"
+
+    },
+    {
+      "name":  "Bcc",
+      "accNum": "123456789"
+    },
+    {
+      "name":  "DDc",
+      "accNum": "123456789"
+    }
+  ]
+}

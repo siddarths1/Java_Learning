@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="08ed1f97-0b6f-40d3-93c7-cb25b7158bf9" />
+      <option name="name" value="08ed1f97-0b6f-40d3-93c7-cb25b7158bf9" />
+      <option name="url" value="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.0/jackson-databind-2.15.0.jar" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="abee4e04-59ec-4b53-9ce5-e13ce6224e5b" />
+      <option name="name" value="abee4e04-59ec-4b53-9ce5-e13ce6224e5b" />
+      <option name="url" value="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.jar" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="0b74c834-1cf9-448d-9a37-84ba82fd312d" />
+      <option name="name" value="0b74c834-1cf9-448d-9a37-84ba82fd312d" />
+      <option name="url" value="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.0/jackson-annotations-2.15.0.jar" />
+    </remote-repository>
+  </component>
+</project>
